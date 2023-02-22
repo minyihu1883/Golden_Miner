@@ -4,7 +4,12 @@ Golden Miner is a fun and exciting arcade-style game where you play as a miner, 
 # Installation and Usage
 To run Golden Miner, please ensure that you have both the "src" and "bin" folders in the same directory. Additionally, ensure that you have Eclipse configured to run JavaSE-18. Once you have these prerequisites, simply run the MainClass.java file to begin playing the game.
 
+![f4fa6fd691b03e0900abacffa262d57](https://user-images.githubusercontent.com/103334407/220753513-9954c89e-27a6-4a53-9b97-fd8075f01e55.png)
+![9ecc95e796a5db37a22d3130e669e0b](https://user-images.githubusercontent.com/103334407/220753551-e23726cf-95f5-4c58-817e-fbdd2a016845.png)
+
 To play the game, use the down arrow key to control the miner and collect items. The different item types have different values, with Gold being worth $1000, Diamond being worth $1200, Rock being worth $250, and Mini Gold being worth $500. Bomb items should be avoided as they will cause a splash and end the game.
+
+![c34f93caeb2381c3952cf649f01bd8d](https://user-images.githubusercontent.com/103334407/220753603-1815a753-2559-4718-812d-b0bd8308486f.png)
 
 If you collect enough points to meet or exceed the level's score goal, you will advance to the shop where you can purchase upgrades. If you fail to meet the goal, the game will end.
 
